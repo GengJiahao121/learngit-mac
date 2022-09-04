@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Creating a new branch "--no-ff"
 Fix a bug.
 Create a dev branh, then update the readme.txt, finally merge dev into master.
+Answer a question on liaoxuefeng's blog.
