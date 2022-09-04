@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Creating a new branch "--no-ff"
 Fix a bug.
+Create a dev branh, then update the readme.txt, finally merge dev into master.
